@@ -2,4 +2,4 @@
 
 **Primer taller de repositorios en ADSO**
 
-## Un dia sere un gran programadorgit
+## Un dia sere un gran programador
